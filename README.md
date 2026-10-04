@@ -7,7 +7,7 @@ glitch, prevents relay chatter, and recovers from faults with a timed sequence.
 Every state change is logged.
 
 ▶ **Run it live:** <https://wokwi.com/projects/476951109148680193>
-🎥 **Demo video:** 
+
 
 ## Features
 - Non-blocking: `millis()` scheduler (50 Hz protection loop) and one state machine
